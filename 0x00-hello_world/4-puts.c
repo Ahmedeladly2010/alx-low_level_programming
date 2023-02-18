@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ * puts : prints the passed string with a newline and returns an integer value
+*/
 
 int main(void)
 {
