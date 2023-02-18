@@ -9,6 +9,8 @@ int main(void)
 {
 	char letter = 'a';
 
+/* start from letter a till we find letter z */
+
 	while (letter <= 'z')
 	{
 		putchar(letter);
