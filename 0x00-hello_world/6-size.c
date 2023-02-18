@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * printf : prints size of characters
- * return : 0
+ * return:0
  */
 int main(void)
 {
