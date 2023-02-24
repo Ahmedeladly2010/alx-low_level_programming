@@ -1,10 +1,11 @@
 #include <stdio.h>
 
-/** main : Entry Point 
- * putchar : to print screen 
+/**
+ * main : Entry Point 
+ *  
  * Retrun: always 0
  */
-int main (void)
+int main(void)
 {
 	putchar('_');
 	putchar('p');
