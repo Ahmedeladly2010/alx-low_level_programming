@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main : Entry Point 
- *  
- * Retrun: always 0
+ * main - Entry point
+ *
+ * Return: 0
  */
 
 int main(void)
@@ -17,6 +17,6 @@ int main(void)
 	putchar('a');
 	putchar('r');
 	putchar('\n');
-	
+
 	return (0);
 }
