@@ -5,6 +5,7 @@
  *  
  * Retrun: always 0
  */
+
 int main(void)
 {
 	putchar('_');
@@ -19,5 +20,3 @@ int main(void)
 	
 	return (0);
 }
-
-
