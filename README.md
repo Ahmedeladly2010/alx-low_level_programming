@@ -1,1 +1,1 @@
-this is my read me file this is my first time learning c language - low level programming 
+ this is readme file for the project 0x05-pointers_arrays_strings 
